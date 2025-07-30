@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-toshniwal&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-toshniwal" /> </p>
 
-- 🌱 I’m currently learning **Android App development with Kotlin language**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Himanshu-Toshniwal](https://github.com/Himanshu-Toshniwal)
 
