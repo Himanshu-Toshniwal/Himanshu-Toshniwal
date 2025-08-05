@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Himanshu-Toshniwal](https://github.com/Himanshu-Toshniwal)
 
-- Connect with me on LinkedIn 🤝: [Himanshu Toshniwal](Himanshu Toshniwal)
+- Connect with me on LinkedIn 🤝: [https://www.linkedin.com/in/himanshu-toshniwal-0156502b8](Himanshu Toshniwal)
 
 - 📫 How to reach me **tsl.himanshu23@gmail.com**
 
