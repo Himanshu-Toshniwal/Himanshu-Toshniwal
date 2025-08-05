@@ -9,7 +9,7 @@
 
 - Connect with me on LinkedIn 🤝: [Himanshu Toshniwal](Himanshu Toshniwal)
 
-- 📫 How to reach me **himanshutoshniwal15@gmail.com**
+- 📫 How to reach me **tsl.himanshu23@gmail.com**
 
 - Fun Fact: **I am code mysteries😊**
 
