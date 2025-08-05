@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Toshniwal</h1>
 <h3 align="center">I'm constantly exploring new technologies and improving my skills.</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/techreagan/devops-gifs/main/lottie-developer.gif" alt="DevOps Developer Animation" width="600"/>
-</p>
+<img align="right" alt="Coding" width="445" src="https://github.com/Himanshu-Toshniwal/Himanshu-Toshniwal/blob/main/image.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-toshniwal&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-toshniwal" /> </p>
 
 - 🌱 I’m currently learning **DevOps**
